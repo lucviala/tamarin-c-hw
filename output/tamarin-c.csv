@@ -1,0 +1,15 @@
+"Id";"Référence";"Empreinte";"Quantité";"Désignation";"Fournisseur et réf";
+1;"J1";"USB_C_Receptacle_HRO_TYPE-C-31-M-12";1;"Computer";;;
+2;"J3";"PinHeader_1x09_P2.54mm_Vertical";1;"Debug Header";;;
+3;"J4";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
+4;"R2,R1,R3";"R_0603_1608Metric";3;"4.7k";;;
+5;"U6,U4,U3,U5";"SOT-23-6";4;"74AVCH1T45";;;
+6;"C2,C1";"C_0603_1608Metric";2;"470pF";;;
+7;"Re,R5";"R_0603_1608Metric";2;"5K1";;;
+8;"U7";"WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm";1;"FUSB302BMPX";;;
+9;"R7";"R_0603_1608Metric";1;"470";;;
+10;"J2";"USB_C_Receptacle_HRO_TYPE-C-31-M-12";1;"iPhone";;;
+11;"C4,C3";"C_0603_1608Metric";2;"0.1uF";;;
+12;"U1";"TSOT-23-5";1;"R5524";;;
+13;"R6";"R_0603_1608Metric";1;"270";;;
+14;"U2";"RPi_Pico_SMD_TH";1;"Pico";;;
